@@ -1,0 +1,16 @@
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\bin\Debug\net8.0\Kashkha.BL.deps.json
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\bin\Debug\net8.0\Kashkha.BL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\bin\Debug\net8.0\Kashkha.BL.pdb
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\bin\Debug\net8.0\Kashkha.DAL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\bin\Debug\net8.0\Kashkha.DAL.pdb
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.sourcelink.json
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.csproj.Up2Date
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\refint\Kashkha.BL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\Kashkha.BL.pdb
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.BL\obj\Debug\net8.0\ref\Kashkha.BL.dll

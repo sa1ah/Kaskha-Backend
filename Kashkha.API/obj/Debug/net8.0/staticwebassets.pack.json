@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\09fc1b56-a08a-4cd6-8f12-f6d28b1b3feeb2.png",
+      "PackagePath": "staticwebassets\\Images\\09fc1b56-a08a-4cd6-8f12-f6d28b1b3feeb2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\0a911ad1-d91c-47c3-9905-a73ea2d959a3nikola-topic-HGfGrLRhVIA-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\0a911ad1-d91c-47c3-9905-a73ea2d959a3nikola-topic-HGfGrLRhVIA-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\18146a3c-0b15-43d7-8bea-8d2d99b0ca18image2.png",
+      "PackagePath": "staticwebassets\\Images\\18146a3c-0b15-43d7-8bea-8d2d99b0ca18image2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\1c3763a3-0a03-461e-8788-80a296236acapanadol.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1c3763a3-0a03-461e-8788-80a296236acapanadol.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\1e8d230a-c670-471f-ad3e-48cf74e9a183catafast1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1e8d230a-c670-471f-ad3e-48cf74e9a183catafast1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\23c91b09-d9ac-42fd-84ba-e4f4aed215a7panadol.jpeg",
+      "PackagePath": "staticwebassets\\Images\\23c91b09-d9ac-42fd-84ba-e4f4aed215a7panadol.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\299c4d5b-8149-4b64-a944-7b8d8855de20image3.png",
+      "PackagePath": "staticwebassets\\Images\\299c4d5b-8149-4b64-a944-7b8d8855de20image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\2b588078-3ca9-4740-8586-91561f696936loren-cutler-9xy6dDvZzOY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\2b588078-3ca9-4740-8586-91561f696936loren-cutler-9xy6dDvZzOY-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\2c0bf3aa-d1e0-41aa-8b9f-a42fee24ba3cnikola-topic-s21wN4Bcuns-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\2c0bf3aa-d1e0-41aa-8b9f-a42fee24ba3cnikola-topic-s21wN4Bcuns-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\2ffeb6a5-ff56-4cbc-baaf-9a160b63a1f3catafast1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\2ffeb6a5-ff56-4cbc-baaf-9a160b63a1f3catafast1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\3835c77d-d6dc-48af-9f36-acc3c5059ebfb3.png",
+      "PackagePath": "staticwebassets\\Images\\3835c77d-d6dc-48af-9f36-acc3c5059ebfb3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\4512c0d4-8dac-4a04-9323-1988e838d32ejeffery-erhunse-dQtd88QQOtY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\4512c0d4-8dac-4a04-9323-1988e838d32ejeffery-erhunse-dQtd88QQOtY-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\451aa8a8-411f-4510-9608-4f0a76cfb87aimage3.png",
+      "PackagePath": "staticwebassets\\Images\\451aa8a8-411f-4510-9608-4f0a76cfb87aimage3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\4559d430-c6b1-4ac8-9ed8-2e3545fab6b1image3.png",
+      "PackagePath": "staticwebassets\\Images\\4559d430-c6b1-4ac8-9ed8-2e3545fab6b1image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\49940c83-e7a5-4b5b-a262-07c856aa2a60pizza1.png",
+      "PackagePath": "staticwebassets\\Images\\49940c83-e7a5-4b5b-a262-07c856aa2a60pizza1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\4a41a2a4-bfe1-413a-8008-beb66b93e66bpizza1.png",
+      "PackagePath": "staticwebassets\\Images\\4a41a2a4-bfe1-413a-8008-beb66b93e66bpizza1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\510a7f34-fffc-4bcc-8669-f7b44776eb15catafast1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\510a7f34-fffc-4bcc-8669-f7b44776eb15catafast1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\67acd31c-4d14-4c05-b39a-7f26c067a74b12.jpg",
+      "PackagePath": "staticwebassets\\Images\\67acd31c-4d14-4c05-b39a-7f26c067a74b12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\69adc21d-db30-4838-96c1-a1b64edeb20aimage3.png",
+      "PackagePath": "staticwebassets\\Images\\69adc21d-db30-4838-96c1-a1b64edeb20aimage3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\7cd30239-71cb-4422-9231-71eb575e2ad1jeffery-erhunse-vjXP64dTovI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\7cd30239-71cb-4422-9231-71eb575e2ad1jeffery-erhunse-vjXP64dTovI-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\7eaedf98-2a03-496d-9f76-5354f37db500catafast1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\7eaedf98-2a03-496d-9f76-5354f37db500catafast1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\912b0abe-2aaf-414b-92ca-42da342ceb03image3.png",
+      "PackagePath": "staticwebassets\\Images\\912b0abe-2aaf-414b-92ca-42da342ceb03image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\98678c6e-01fc-4262-a2fe-014199fb5257rossella-porta-LB5-4Db0cBg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\98678c6e-01fc-4262-a2fe-014199fb5257rossella-porta-LB5-4Db0cBg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\aa38dfc6-55ad-4c71-a743-c65d78bd8ed0mahaan-mehranii-Tp3rFfF9ZSM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\aa38dfc6-55ad-4c71-a743-c65d78bd8ed0mahaan-mehranii-Tp3rFfF9ZSM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\ba1315ea-df5c-4da2-b92b-5c510dd0ab29catafast1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ba1315ea-df5c-4da2-b92b-5c510dd0ab29catafast1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\c58dac3d-bf64-418e-a5ad-589dfcd1fc73marcelo-rangel-OyTPWwhzEac-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\c58dac3d-bf64-418e-a5ad-589dfcd1fc73marcelo-rangel-OyTPWwhzEac-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\cb82ee57-fda5-465e-bafd-f2af66f6e555477616-PGDMDT-384.jpg",
+      "PackagePath": "staticwebassets\\Images\\cb82ee57-fda5-465e-bafd-f2af66f6e555477616-PGDMDT-384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\wwwroot\\Images\\d9f7fe06-10d2-4588-b74a-2a85f6295e16jessica-felicio-pRTXDhCIAbY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Images\\d9f7fe06-10d2-4588-b74a-2a85f6295e16jessica-felicio-pRTXDhCIAbY-unsplash.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kashkha.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Kashkha.API.props",
+      "PackagePath": "build\\Kashkha.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kashkha.API.props",
+      "PackagePath": "buildMultiTargeting\\Kashkha.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kashkha.API.props",
+      "PackagePath": "buildTransitive\\Kashkha.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

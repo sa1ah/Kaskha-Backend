@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|solutionrelative:kashkha.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|solutionrelative:kashkha.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\paymentmanager\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\paymentmanager\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\orderrepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\orderrepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\orderrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\orderrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\ordermanager\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\ordermanager\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\ordermanager\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\ordermanager\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|solutionrelative:kashkha.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\cartrepository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\cartrepository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\cartmanager\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\cartmanager\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.api\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|solutionrelative:kashkha.api\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\favoritemanager\\favoritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\favoritemanager\\favoritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\favoritemanager\\ifavoritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\favoritemanager\\ifavoritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\dtos\\favoritedtos\\getfavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\dtos\\favoritedtos\\getfavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\favoritrepository\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\favoritrepository\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\favoritrepository\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\favoritrepository\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\dtos\\favoritedtos\\addtofavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\dtos\\favoritedtos\\addtofavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\dtos\\favoritedtos\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\dtos\\favoritedtos\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\dtos\\favoritedtos\\createfavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\dtos\\favoritedtos\\createfavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\migrations\\20240918212956_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\migrations\\20240918212956_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|solutionrelative:kashkha.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\helpers\\userseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\helpers\\userseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\helpers\\createtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\helpers\\createtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.api\\controllers\\shopownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29B093-AEC3-4144-A1E2-172F0B91C881}|Kashkha.API\\Kashkha.API.csproj|solutionrelative:kashkha.api\\controllers\\shopownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\shopmanager\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\shopmanager\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\shoprepository\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\shoprepository\\shoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\shopmanager\\ishoprmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\shopmanager\\ishoprmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\repositories\\shoprepository\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\repositories\\shoprepository\\ishoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.bl\\managers\\productsmanager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4DB43-B3A8-4C54-A1CF-7EA159661BD9}|Kashkha.BL\\Kashkha.BL.csproj|solutionrelative:kashkha.bl\\managers\\productsmanager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|c:\\users\\asus\\onedrive\\desktop\\final\\kashkha\\kashkha.dal\\migrations\\20240918213228_fix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ECE179-5BA6-4CCD-83F2-D1F92CECB579}|Kashkha.DAL\\Kashkha.DAL.csproj|solutionrelative:kashkha.dal\\migrations\\20240918213228_fix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Kashkha.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Kashkha.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:06:07.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\PaymentManager\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\PaymentManager\\PaymentManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\PaymentManager\\PaymentManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\PaymentManager\\PaymentManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:03:00.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:57:58.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\OrderRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\OrderRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\OrderRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\OrderRepository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:52:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Order.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Models\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:50:17.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:48:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\OrderManager\\IOrderManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\OrderManager\\IOrderManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\OrderManager\\IOrderManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\OrderManager\\IOrderManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:45:38.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\OrderManager\\OrderManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\OrderManager\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\OrderManager\\OrderManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\OrderManager\\OrderManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:44:55.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "orderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\OrderDTOs\\orderDto.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\DTOs\\OrderDTOs\\orderDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\OrderDTOs\\orderDto.cs",
+              "RelativeToolTip": "Kashkha.BL\\DTOs\\OrderDTOs\\orderDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:42:58.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Kashkha.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Kashkha.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:41:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\CartRepository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\CartRepository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\CartRepository\\CartRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\CartRepository\\CartRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:33:38.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\CartManager\\CartManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\CartManager\\CartManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\CartManager\\CartManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\CartManager\\CartManager.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwFoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:32:24.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Kashkha.API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Kashkha.API\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:22:48.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Kashkha.BL\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA0wBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:32:02.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetFavoriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\GetFavoriteDto.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\DTOs\\FavoriteDTOs\\GetFavoriteDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\GetFavoriteDto.cs",
+              "RelativeToolTip": "Kashkha.BL\\DTOs\\FavoriteDTOs\\GetFavoriteDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:31:15.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Kashkha.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:59:49.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\FavoritRepository\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\FavoritRepository\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\FavoritRepository\\FavoriteRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\FavoritRepository\\FavoriteRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:16:33.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\FavoritRepository\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\FavoritRepository\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\FavoritRepository\\IFavoriteRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\FavoritRepository\\IFavoriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:16:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "Kashkha.API\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "Kashkha.API\\Controllers\\FavoriteController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:02:21.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "favoriteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\favoriteDTO.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\DTOs\\FavoriteDTOs\\favoriteDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\favoriteDTO.cs",
+              "RelativeToolTip": "Kashkha.BL\\DTOs\\FavoriteDTOs\\favoriteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:24:40.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFavoriteManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\FavoriteManager\\IFavoriteManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\FavoriteManager\\IFavoriteManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\FavoriteManager\\IFavoriteManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\FavoriteManager\\IFavoriteManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:51:40.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Favorite.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Models\\Favorite.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:18:58.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FavoriteManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\FavoriteManager\\FavoriteManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\FavoriteManager\\FavoriteManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\FavoriteManager\\FavoriteManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\FavoriteManager\\FavoriteManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:51:35.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Kashkha.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:59:54.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddToFavoriteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\AddToFavoriteDTO.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\DTOs\\FavoriteDTOs\\AddToFavoriteDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\AddToFavoriteDTO.cs",
+              "RelativeToolTip": "Kashkha.BL\\DTOs\\FavoriteDTOs\\AddToFavoriteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:23:04.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "createFavoriteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\createFavoriteDTO.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\DTOs\\FavoriteDTOs\\createFavoriteDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\DTOs\\FavoriteDTOs\\createFavoriteDTO.cs",
+              "RelativeToolTip": "Kashkha.BL\\DTOs\\FavoriteDTOs\\createFavoriteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:24:40.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Models\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:25:38.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240918213228_fix2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Migrations\\20240918213228_fix2.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Migrations\\20240918213228_fix2.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Migrations\\20240918213228_fix2.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Migrations\\20240918213228_fix2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:32:29.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240918212956_fix.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Migrations\\20240918212956_fix.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Migrations\\20240918212956_fix.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Migrations\\20240918212956_fix.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Migrations\\20240918212956_fix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:29:57.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\UserSeeding.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Helpers\\UserSeeding.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\UserSeeding.cs",
+              "RelativeToolTip": "Kashkha.BL\\Helpers\\UserSeeding.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:53:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Helpers\\ProductPictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Kashkha.BL\\Helpers\\ProductPictureUrlResolver.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:53:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateToken.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\CreateToken.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Helpers\\CreateToken.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\CreateToken.cs",
+              "RelativeToolTip": "Kashkha.BL\\Helpers\\CreateToken.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:53:20.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Helpers\\DocumentSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Helpers\\DocumentSettings.cs",
+              "RelativeToolTip": "Kashkha.BL\\Helpers\\DocumentSettings.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:53:17.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Program.cs",
+              "RelativeDocumentMoniker": "Kashkha.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Program.cs",
+              "RelativeToolTip": "Kashkha.API\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:52:03.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShopOwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\ShopOwnerController.cs",
+              "RelativeDocumentMoniker": "Kashkha.API\\Controllers\\ShopOwnerController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.API\\Controllers\\ShopOwnerController.cs",
+              "RelativeToolTip": "Kashkha.API\\Controllers\\ShopOwnerController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAArwDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:30:09.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\ShopManager\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\ShopManager\\ShopManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\ShopManager\\ShopManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\ShopManager\\ShopManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAEwDMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:28:39.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IShoprManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\ShopManager\\IShoprManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\ShopManager\\IShoprManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\ShopManager\\IShoprManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\ShopManager\\IShoprManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:27:28.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Models\\Shop.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Models\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:26:53.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\ShopRepository\\ShopRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\ShopRepository\\ShopRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\ShopRepository\\ShopRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\ShopRepository\\ShopRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:23:09.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IShopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\ShopRepository\\IShopRepository.cs",
+              "RelativeDocumentMoniker": "Kashkha.DAL\\Repositories\\ShopRepository\\IShopRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.DAL\\Repositories\\ShopRepository\\IShopRepository.cs",
+              "RelativeToolTip": "Kashkha.DAL\\Repositories\\ShopRepository\\IShopRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:17:40.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\ProductsManager\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Kashkha.BL\\Managers\\ProductsManager\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\final\\Kashkha\\Kashkha.BL\\Managers\\ProductsManager\\ProductManager.cs",
+              "RelativeToolTip": "Kashkha.BL\\Managers\\ProductsManager\\ProductManager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:27:58.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

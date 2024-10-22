@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\bin\Debug\net8.0\Kashkha.DAL.deps.json
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\bin\Debug\net8.0\Kashkha.DAL.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\bin\Debug\net8.0\Kashkha.DAL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\bin\Debug\net8.0\Kashkha.DAL.pdb
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.sourcelink.json
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\refint\Kashkha.DAL.dll
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.pdb
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\Kashkha.DAL.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\final\Kashkha\Kashkha.DAL\obj\Debug\net8.0\ref\Kashkha.DAL.dll
